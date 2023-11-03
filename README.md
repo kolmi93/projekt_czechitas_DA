@@ -6,7 +6,6 @@ V rámci tohoto kurzu musela každá účastnice s parťačkou a pod dohledem me
 
 Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovala náročná část hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů ve 3.normální formě: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly s SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozorkách. Proto se nelekejte, že je v kódech uvidíte. Kdybychom to psaly např. ve Snowflake, tak by tam tyto uvozovky být nemusely.
 
-Výsledné vizualizace byly udělány v Tableau.
-
+( Výsledné vizualizace byly udělány v Tableau.
 odkaz na článek ->
-odkaz na Tableau Public ->
+odkaz na Tableau Public -> ) JIŽ BRZY
