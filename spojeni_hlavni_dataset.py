@@ -9,3 +9,6 @@ joined_dataset = pd.concat(
 )
 
 print(joined_dataset)
+
+# uložení do souboru
+joined_dataset.to_csv('out/tables/DESEASES_DATA_FULL', index=False)
