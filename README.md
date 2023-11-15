@@ -4,8 +4,10 @@ V tomto náročném kurzu jsme se učily datové modelování, čištění, anal
 
 V rámci tohoto kurzu musela každá účastnice s parťačkou a pod dohledem mentorů zpracovat vlastní projekt dle vlastní volby. My jsme zpracovávaly příčiny úmrtí po celém světě za posledních 30 let. Data jsme čerpaly z IHME, World in data a Kaggle.
 
-Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovala náročná část hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů ve 3.normální formě: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly s SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozorkách. Proto se nelekejte, že je v kódech uvidíte. Kdybychom to psaly např. ve Snowflake, tak by tam tyto uvozovky být nemusely.
+Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovala náročná část hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů ve 3.normální formě: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly s SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozorkách. Což nám zkomplikovalo sjednocování názvů států napříč všemi datasety (příklad: 'Cote d\'Ivoire' -> 'Ivory Coast').
+odkaz na datový model: 
+odkaz na datasty: 
 
-( Výsledné vizualizace byly udělány v Tableau.
+(Výsledné vizualizace budou udělány v Tableau.
 odkaz na článek ->
 odkaz na Tableau Public -> ) JIŽ BRZY
