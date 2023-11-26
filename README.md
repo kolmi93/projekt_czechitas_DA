@@ -5,6 +5,5 @@ V rámci tohoto kurzu musela každá účastnice s parťačkou a pod dohledem me
 
 Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovalo hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly pomocí SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozovkách. To nám zkomplikovalo sjednocování názvů států napříč všemi datasety (příklad: 'Cote d\'Ivoire' -> 'Ivory Coast').
 
-(Výsledné vizualizace budou udělány v Tableau.
-odkaz na článek ->
-odkaz na Tableau Public -> ) JIŽ BRZY
+odkaz na článek -> https://bit.ly/dadpp23projekt01
+odkaz na Tableau Public -> https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW)https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW
