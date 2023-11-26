@@ -3,8 +3,9 @@ V tomto náročném kurzu jsme se učily datové modelování, čištění, anal
 
 V rámci tohoto kurzu musela každá účastnice s parťačkou a pod dohledem mentorů zpracovat vlastní projekt dle vlastní volby. My jsme zpracovávaly příčiny úmrtí po celém světě za posledních 30 let. Data jsme čerpaly z IHME, Our World in Data, Pew Research Center a Kaggle.
 
-Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovalo hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly pomocí SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozovkách. To nám zkomplikovalo sjednocování názvů států napříč všemi datasety (příklad: 'Cote d\'Ivoire' -> 'Ivory Coast').
+Hlavní dataset deseases jsme spojily pomocí pandas a nahrály do Kebooly. Následovalo hledání dalších dat, kterými bychom mohly náš hlavní dataset obohatit. Ve výsledku jsme měly 6 datasetů: deseases, rf_staty (náš číselník), health_accesibility, popul_density, economic_data a daylight. Jejich čištění jsme dělaly pomocí SQL v Keboole. Práce v Keboole má svá specifika, např. veškeré názvy tablek a sloupců musí být uvedena v uvozovkách.
+Více o projektu v odkazech níže.
 
-odkaz na článek -> https://bit.ly/dadpp23projekt01
+článek -> https://bit.ly/dadpp23projekt01
 
-odkaz na Tableau Public -> https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW)https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW
+Tableau Public -> https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW)https://public.tableau.com/app/profile/katerina.novakova/viz/Causesofdeath_17009275577900/GLOBALVIEW
