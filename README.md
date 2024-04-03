@@ -15,6 +15,7 @@ The project resulted in 4 interactive dashboards created in Tableau.
 More about the project in the links below.
 
 Article -> https://bit.ly/dadpp23projekt01
+
 Tableau Public -> https://bit.ly/viz_causes_of_death
 
 ### Digital Academy:DATA
@@ -39,6 +40,7 @@ Výsledkem projektu jsou 4 interaktiní dashboardy vytvořené v Tableau.
 Více o projektu v odkazech níže.
 
 článek -> https://bit.ly/dadpp23projekt01
+
 Tableau Public -> https://bit.ly/viz_causes_of_death
 
 ### Digitální akademie: DATA
